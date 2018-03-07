@@ -13,7 +13,7 @@ public class Main {
         } else if(opCode == 's' ){
             result = val1 - val2;
         } else if(opCode == 'd'){
-            result = val2 != 0.0d ? val1 / val2 : 0.0d
+            result = val2 != 0.0d ? val1 / val2 : 0.0d;
 //            Same line of code as above.
 //            if(val2 != 0.0d){
 //                result = val1 / val2
