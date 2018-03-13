@@ -34,7 +34,7 @@ public class MathEquation {
         execute();
     }
 
-    public void exectue(int leftVal, int rightVal){
+    public void execute(int leftVal, int rightVal){
         this.leftVal = leftVal;
         this.rightVal = rightVal;
 
